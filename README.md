@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=IronCoder&show_icons=true&hide=contribs&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thangtcm&show_icons=true&hide=contribs&include_all_commits=true" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
 
