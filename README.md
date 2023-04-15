@@ -27,7 +27,7 @@
     <img align="left" alt="Trần Cao Minh Thắng| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
-  
+  > [![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)
 <p align="right" > Created with 🖤 by <a href="https://github.com/thangtcm">Iron Coder</a></p>
 <div align="right" > [![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)</div>
   
