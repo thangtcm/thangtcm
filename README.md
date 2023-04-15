@@ -1,7 +1,5 @@
 ### Hi there, I'm IronCoder ✔️
 
-> [![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Web+Developer;I'm+a+Blogger"></p>
@@ -31,4 +29,5 @@
   <br>
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/thangtcm">Iron Coder</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=thangtcm&label=Profile%20views&color=0e75b6&style=flat" alt="thangtcm" /> </p>
+<p align="right" > [![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)</p>
+  
