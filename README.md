@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thangtcm&show_icons=true&hide=contribs&include_all_commits=true" />
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
-
-- C-Sharp
-- Java
-- HTML/CSS
-- Bootstrap 5
+<span>[<img src="https://github-readme-stats.vercel.app/api?username=thangtcm&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)</span>
+<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangtcm&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)</span>
 
 <p align="left">
     <a href="https://juejin.cn/user/4142615541321928/posts">
@@ -20,17 +17,3 @@
     <img src="https://komarev.com/ghpvc/?username=coder-pig&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
