@@ -1,4 +1,4 @@
-### Hi there, I'm LTP ✔️
+### Hi there, I'm IronCoder ✔️
 
 > [![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)
 
@@ -16,9 +16,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangtcm&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=thangtcm)</span>
-
-<p align="left">
-  <a href="https://github.com/thangtcm">
-    <img src="https://komarev.com/ghpvc/?username=coder-pig&color=brightgreen&label=👁%20Views" />
-  </a>  
-</p>
