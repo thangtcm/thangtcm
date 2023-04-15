@@ -32,6 +32,6 @@
   
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/thangtcm">Iron Coder</a></p>
-<div align="right">[![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)
+<div align="right">;[![View count](https://visitcount.itsvg.in/api?id=thangtcm&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thangtcm)
  </div>
   
