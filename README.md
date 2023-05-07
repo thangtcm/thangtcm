@@ -39,4 +39,10 @@
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thangtcm/thangtcm/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/thangtcm/thangtcm/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/thangtcm/thangtcm/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 
