@@ -38,4 +38,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          PAT: ${{ secrets.PAT }}
+          GH_PAT: ${{ secrets.PAT }}
