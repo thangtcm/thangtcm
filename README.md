@@ -35,7 +35,7 @@
 
 <div align="right">
   
- [![View count](https://komarev.com/ghpvc/?username=thangtcm&style=flat-square)
+ ![View count](https://komarev.com/ghpvc/?username=thangtcm&style=flat-square)
   
 </div>
 
