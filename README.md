@@ -21,7 +21,7 @@
   <a href="mailto:caominhthangtran@gmail.com">
     <img align="left" alt="Trần Cao Minh Thắng | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/TranCaoMinhThang.VN">
+   <a href="https://www.facebook.com/thang.epe48">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/thangtcm">
